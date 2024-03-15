@@ -1,3 +1,5 @@
+![nuget](https://www.nuget.org/packages/EasyGen/1.0.0)
+
 Simple lib with no dependencies for generate bmp images
 
 ```
