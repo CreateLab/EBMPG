@@ -5,6 +5,9 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>EBMPG</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>Lary</Authors>
+        <PackageProjectUrl>https://github.com/CreateLab/EBMPG</PackageProjectUrl>
     </PropertyGroup>
 
 </Project>
